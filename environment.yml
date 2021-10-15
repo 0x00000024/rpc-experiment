@@ -1,0 +1,37 @@
+name: rpc-3.7
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - bcrypt=3.2.0=py37h271585c_1
+  - ca-certificates=2021.10.8=h033912b_0
+  - certifi=2021.10.8=py37hf985489_0
+  - cffi=1.14.6=py37hda351d9_0
+  - cryptography=3.4.8=py37hce4a858_0
+  - libcxx=12.0.0=h2f01273_0
+  - libffi=3.3=hb1e8313_2
+  - libprotobuf=3.6.0=hd9629dc_0
+  - libsodium=1.0.18=hbcb3906_1
+  - mysql-connector-c=6.1.11=hccea1a4_1
+  - mysql-connector-python=8.0.18=py37h3febbb0_1
+  - ncurses=6.2=h0a44026_1
+  - openssl=1.1.1l=h0d85af4_0
+  - paramiko=2.8.0=pyhd8ed1ab_0
+  - pip=21.0.1=py37hecd8cb5_0
+  - plumbum=1.7.0=pyhd8ed1ab_0
+  - protobuf=3.6.0=py37h0a44026_0
+  - pycparser=2.20=pyh9f0ad1d_2
+  - pynacl=1.4.0=py37h271585c_2
+  - python=3.7.11=h88f2d9e_0
+  - python_abi=3.7=2_cp37m
+  - readline=8.1=h9ed2024_0
+  - rpyc=5.0.1=pyhd8ed1ab_0
+  - setuptools=58.0.4=py37hecd8cb5_0
+  - six=1.15.0=py_0
+  - sqlite=3.36.0=hce871da_0
+  - tk=8.6.11=h7bc2e8c_0
+  - wheel=0.37.0=pyhd3eb1b0_1
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/rpc-3.7
